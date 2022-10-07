@@ -1,5 +1,5 @@
-# Maven
-- task: Docker@2
+# Maven 
+ - task: Docker@2
   inputs:
     containerRegistry: 'docekrtest'
     repository: 'johnvictorpaul95 / dockerdemo'
