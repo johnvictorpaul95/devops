@@ -1,6 +1,6 @@
 # Maven 
  - task: Docker@2
-  inputs:
+ inputs:
     containerRegistry: 'docekrtest'
     repository: 'johnvictorpaul95 / dockerdemo'
     command: 'buildAndPush'
